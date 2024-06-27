@@ -19,7 +19,6 @@ Cada pasta contém subpastas organizadas por data ou tema específico. Para aces
 
 1. Navegue até a pasta de interesse.
 2. Abra os arquivos para visualizar o código ou os exemplos.
-3. Siga as instruções dentro dos arquivos, se houver, para replicar as práticas ou realizar os exercícios.
 
 ## Contato
 
