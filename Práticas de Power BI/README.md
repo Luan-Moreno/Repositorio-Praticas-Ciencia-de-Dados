@@ -1,7 +1,7 @@
 # Práticas de Power BI
 
 Esta pasta contém projetos e práticas focadas no uso do Power BI para criação de dashboards, relatórios e análises visuais.
-
+‎ 
 ## Conteúdo
 
 - **Dashboards**: Exemplos de dashboards interativos.
