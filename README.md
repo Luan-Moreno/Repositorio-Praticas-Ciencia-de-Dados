@@ -19,10 +19,3 @@ Cada pasta contém subpastas organizadas por data ou tema específico. Para aces
 
 1. Navegue até a pasta de interesse.
 2. Abra os arquivos para visualizar o código ou os exemplos.
-
-## Contato
-
-Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
-
-- **Email**: [luanpmoreno40@gmail.com](mailto:luanpmoreno40@gmail.com)
-- **Linkedin**: [https://www.linkedin.com/in/luan-moreno/](https://www.linkedin.com/in/luan-moreno/)
